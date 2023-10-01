@@ -1,7 +1,7 @@
 <h1 align="center">PhonePe Pulse Data Visualization 2018-2022</h1> </p>
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 
-</a><h1>I am `SATHISH KUMAR`</h1>
+</a><h1>I am `Karthick R`</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sathishkumarraj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tirumal-s/" height="30" width="40" />
