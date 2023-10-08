@@ -4,7 +4,7 @@
 </a><h1>I am `Karthick R`</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sathishkumarraj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tirumal-s/" height="30" width="40" />
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/karthick-ravikumar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tirumal-s/" height="30" width="40" />
 <a href="https://instagram.com/rajendsathish_sk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.war_n_ing" height="30" width="40" /></a>
 </p>
 
@@ -89,4 +89,4 @@ Contributions are welcome! If you have any suggestions, improvements, or bug fix
 ## Acknowledgements
 
 - Special thanks to the creators and maintainers of the libraries and tools used in this project.
-- If you have any questions or need assistance, please don't hesitate to [contact me](https://www.linkedin.com/in/sathishkumarraj/).
+- If you have any questions or need assistance, please don't hesitate to [contact me](https://www.linkedin.com/in/karthick-ravikumar/).
